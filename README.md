@@ -1,6 +1,6 @@
 # Progetto Maturità - A.S. 2016/2017
 
-## HomeSharing
+## FastHome
 ### Componenti Gruppo
 Alessandro Fornaro (capo-gruppo), Stefano Marzorati, Christian Della Torre, Andrea Zocca
 
