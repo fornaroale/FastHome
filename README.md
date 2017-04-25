@@ -5,10 +5,12 @@
 Alessandro Fornaro (capo-gruppo), Stefano Marzorati, Christian Della Torre, Andrea Zocca
 
 ### Descrizione Progetto
-L'idea è quella di creare un sito (con relativa app) che renda semplice l'affitto di una casa a qualcuno, oppure semplicemente uno "scambio di soggiorno".
+Sito web che renda semplice l'affitto di una casa a qualcuno tramite un sistema a crediti.
 
 ### Software utilizzati
-Android Studio 2.2
+* Browser con supporto HTML 5
 
-### Linguaggi utilizzati
-Java
+### Linguaggi markup/programmazione utilizzati
+* HTML
+* CSS
+* PHP
